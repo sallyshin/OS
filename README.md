@@ -1,3 +1,2 @@
 # OS
-2021_spring_semester
-operation system
+2021_봄_운영체제
